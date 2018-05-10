@@ -1,6 +1,6 @@
-// +build OMIT
+// \\+build OMIT
 
-package main
+package main // import "github.com/bantana/golabs/contextlabs/demo1"
 
 import (
 	"context"
